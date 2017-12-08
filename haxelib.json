@@ -1,0 +1,14 @@
+{
+    "name": "om.test",
+    "version": "0.0.0",
+    "description": "Unit testing",
+    "tags": ["om","test","unit"],
+    "url": "https://github.com/tong/om.test",
+    "license": "OM",
+    "contributors": ["tong"],
+    "releasenote": "See CHANGELOG",
+    "classPath" : "src/",
+    "dependencies": {
+        "utest": ""
+    }
+}
