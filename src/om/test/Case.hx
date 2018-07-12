@@ -3,6 +3,7 @@ package om.test;
 import utest.Assert;
 import haxe.PosInfos;
 
+@:keepSub
 class Case {
 
 	public function new() {}
