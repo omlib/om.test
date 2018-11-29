@@ -4,9 +4,7 @@ import utest.Assert;
 import haxe.PosInfos;
 
 @:keepSub
-class Case {
-
-	public function new() {}
+class Case extends utest.Test {
 
     inline function isTrue( cond : Bool, ?msg : String, ?pos : PosInfos ) {
         Assert.isTrue( cond, msg, pos );

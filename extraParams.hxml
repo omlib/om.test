@@ -1,3 +1,3 @@
--main om.test.Unit
--cp case
--dce no
+-m om.test.Unit
+-p case
+--dce no

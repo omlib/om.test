@@ -1,9 +1,9 @@
 
 # OM.TEST
 
-> [UTest](https://github.com/haxe-utest/utest) based test base library.
+> [UTest](https://github.com/haxe-utest/utest) based test library.
 
 
 ## Usage
-#TODO
-See: om.core/test
+### Auto add test cases
+`-D om_test_add_cases`
