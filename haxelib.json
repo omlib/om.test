@@ -1,9 +1,9 @@
 {
     "name": "om.test",
     "version": "0.0.0",
-    "description": "Unit testing",
+    "description": "Unit test core",
     "tags": ["om","test","unit"],
-    "url": "https://github.com/tong/om.test",
+    "url": "https://github.com/omlib/om.test",
     "license": "OM",
     "contributors": ["tong"],
     "releasenote": "See CHANGELOG",
