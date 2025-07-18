@@ -1,3 +1,4 @@
--m om.test.Unit
--p case
+-main om.test.Unit
+-cp test
 --dce no
+-D no-deprecation-warnings

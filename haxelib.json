@@ -1,14 +1,20 @@
 {
-    "name": "om.test",
-    "version": "0.0.0",
-    "description": "Unit test core",
-    "tags": ["om","test","unit"],
-    "url": "https://github.com/omlib/om.test",
-    "license": "OM",
-    "contributors": ["tong"],
-    "releasenote": "See CHANGELOG",
-    "classPath" : "src/",
-    "dependencies": {
-        "utest": ""
-    }
+  "name": "om.test",
+  "version": "0.0.0",
+  "description": "Unit test core",
+  "tags": [
+    "om",
+    "test",
+    "unit"
+  ],
+  "url": "https://github.com/omlib/om.test",
+  "license": "Public",
+  "contributors": [
+    "tong"
+  ],
+  "releasenote": "See CHANGELOG",
+  "classPath": "src/",
+  "dependencies": {
+    "utest": ""
+  }
 }

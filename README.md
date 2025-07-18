@@ -1,9 +1,18 @@
-
 # OM.TEST
 
-> [UTest](https://github.com/haxe-utest/utest) based test library.
-
+> [Utest](https://github.com/haxe-utest/utest) based unit test library.
 
 ## Usage
-### Auto add test cases
-`-D om_test_add_cases`
+
+Create a test.hxml in your project.
+
+```hxml
+-hl test.hl
+-lib some
+-lib om.test
+-D om_test_cases=test
+```
+
+### Flags
+
+- `om_test_cases=test` Auto add test cases
